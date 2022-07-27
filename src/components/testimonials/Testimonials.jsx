@@ -13,28 +13,16 @@ import 'swiper/css/pagination'
 const data = [
   {
     avatar: AVTR1,
-    name: 'Client Name',
+    name: 'Reality PDX',
     review:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta ullam atque sunt quis et omnis aliquid pariatur impedit, facere velit, corporis eos. Excepturi eum, quo atque eos consequatur tempora in.',
+      'Riley was amazing to work with. We gave a general idea of what we wanted, and he blew us away with what he came up with. extremely satisfied with the end result',
   },
   {
     avatar: AVTR1,
-    name: 'Client Name',
+    name: 'Worldwide Bulliez llc',
     review:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta ullam atque sunt quis et omnis aliquid pariatur impedit, facere velit, corporis eos. Excepturi eum, quo atque eos consequatur tempora in.',
-  },
-  {
-    avatar: AVTR1,
-    name: 'Client Name',
-    review:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta ullam atque sunt quis et omnis aliquid pariatur impedit, facere velit, corporis eos. Excepturi eum, quo atque eos consequatur tempora in.',
-  },
-  {
-    avatar: AVTR1,
-    name: 'Client Name',
-    review:
-      'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta ullam atque sunt quis et omnis aliquid pariatur impedit, facere velit, corporis eos. Excepturi eum, quo atque eos consequatur tempora in.',
-  },
+      "We weren't sure what we wanted, we just knew we needed a modern website to attract more clients. Riley made the process fun. He showed us plenty of examples and let us choose what functionalities we wanted. He quickly delivered a minimal modern site with everything we wanted and more.",
+  }
 ]
 
 const Testimonials = () => {
