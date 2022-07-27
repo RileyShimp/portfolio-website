@@ -25,19 +25,20 @@ header {
   position: absolute;
   left: 0;
   bottom: 3rem;
+  font-size: 1.5rem
 }
 
 .header_socials::after {
   content: '';
   width: 1px;
-  height: 2rem;
+  height: 3rem;
   background: var(--color-primary);
 }
 
 .me {
-  background: linear-gradient(var(--color-primary), transparent) ;
+  background: linear-gradient(var(--color-primary), transparent);
   width: 22rem;
-  height: 30rem;
+  height: 24.5rem;
   position: absolute;
   left: calc(50% - 11rem);
   margin-top: 4rem;
@@ -49,7 +50,7 @@ header {
 .scroll_down {
   position: absolute;
   right: -2.3rem;
-  bottom: 5rem ;
+  bottom: 5rem;
   transform: rotate(90deg);
   font-weight: 300;
   font-size: 0.9rem;

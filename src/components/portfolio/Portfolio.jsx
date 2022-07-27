@@ -1,53 +1,29 @@
 import React from 'react'
 import './portfolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
+import IMG1 from '../../assets/WWB.jpg'
+import IMG2 from '../../assets/RPDX.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.jpg'
-import IMG6 from '../../assets/portfolio6.jpg'
 
 const data = [
   {
     id: 1,
     image: IMG1,
-    title: 'This is a Portfolio Title',
-    github: 'https://github.com/RileyShimp',
-    demo: 'https://github.com/RileyShimp',
+    title: 'Worldwide Bulliez',
+    github: 'https://github.com/RileyShimp/worldwidebulliez',
+    demo: 'https://www.worldwidebulliez.com/',
   },
   {
     id: 2,
     image: IMG2,
-    title: 'This is a Portfolio Title',
-    github: 'https://github.com/RileyShimp',
-    demo: 'https://github.com/RileyShimp',
+    title: 'Reality PDX',
+    github: 'https://github.com/RileyShimp/RealityNightClubPDX',
+    demo: 'https://www.realitypdx.com/',
   },
   {
     id: 3,
     image: IMG3,
-    title: 'This is a Portfolio Title',
-    github: 'https://github.com/RileyShimp',
-    demo: 'https://github.com/RileyShimp',
-  },
-  {
-    id: 4,
-    image: IMG4,
-    title: 'This is a Portfolio Title',
-    github: 'https://github.com/RileyShimp',
-    demo: 'https://github.com/RileyShimp',
-  },
-  {
-    id: 5,
-    image: IMG5,
-    title: 'This is a Portfolio Title',
-    github: 'https://github.com/RileyShimp',
-    demo: 'https://github.com/RileyShimp',
-  },
-  {
-    id: 6,
-    image: IMG6,
-    title: 'This is a Portfolio Title',
-    github: 'https://github.com/RileyShimp',
+    title: 'Bakery Database App',
+    github: 'https://github.com/RileyShimp/PierresTreats.Solution',
     demo: 'https://github.com/RileyShimp',
   },
 ]

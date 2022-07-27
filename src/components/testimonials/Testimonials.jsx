@@ -1,9 +1,6 @@
 import React from 'react'
 import './testimonials.css'
-import AVTR1 from '../../assets/avatar1.jpg'
-import AVTR2 from '../../assets/avatar2.jpg'
-import AVTR3 from '../../assets/avatar3.jpg'
-import AVTR4 from '../../assets/avatar4.jpg'
+import AVTR1 from '../../assets/user.jpg'
 
 import { Pagination } from 'swiper'
 
@@ -21,19 +18,19 @@ const data = [
       'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta ullam atque sunt quis et omnis aliquid pariatur impedit, facere velit, corporis eos. Excepturi eum, quo atque eos consequatur tempora in.',
   },
   {
-    avatar: AVTR2,
+    avatar: AVTR1,
     name: 'Client Name',
     review:
       'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta ullam atque sunt quis et omnis aliquid pariatur impedit, facere velit, corporis eos. Excepturi eum, quo atque eos consequatur tempora in.',
   },
   {
-    avatar: AVTR3,
+    avatar: AVTR1,
     name: 'Client Name',
     review:
       'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta ullam atque sunt quis et omnis aliquid pariatur impedit, facere velit, corporis eos. Excepturi eum, quo atque eos consequatur tempora in.',
   },
   {
-    avatar: AVTR4,
+    avatar: AVTR1,
     name: 'Client Name',
     review:
       'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Soluta ullam atque sunt quis et omnis aliquid pariatur impedit, facere velit, corporis eos. Excepturi eum, quo atque eos consequatur tempora in.',
@@ -43,7 +40,7 @@ const data = [
 const Testimonials = () => {
   return (
     <section id='testimonials'>
-      <h5>Review from Clients</h5>
+      <h5>Reviews from Clients</h5>
       <h2>Testimonials</h2>
 
       <Swiper

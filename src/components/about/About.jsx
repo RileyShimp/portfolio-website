@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import Me from '../../assets/Me.jpg'
+import Me from '../../assets/Me5.jpg'
 import { FaAward } from 'react-icons/fa'
 import { FiUsers } from 'react-icons/fi'
 import { VscFolderLibrary } from 'react-icons/vsc'
@@ -26,7 +26,7 @@ const About = () => {
               <small>1 year developing Experience</small>
             </article>
 
-            <article className='about_card'>
+            <article className='about_card' id='client_card'>
               <FiUsers className='about_icon' />
               <h5>Clients</h5>
               <small>Clients of all industries</small>
@@ -40,9 +40,9 @@ const About = () => {
           </div>
 
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, odio quo nostrum
-            necessitatibus natus hic. Voluptate numquam voluptatibus quaerat doloremque a nobis
-            molestias fugit, incidunt, dolores facilis adipisci eaque porro!
+          I'm a professional problem solver with a passion for programming. I studied at Epicodus where I became proactive at working with multiple languages including JavaScript and C#. Through failure after failure, I've developed a tenacious focus to solve any problem that's placed in front of me. One look at my portfolio will reveal a student obsessed with learning and passionate about software development. 
+          </p>
+          <p>I’ve built 50+ projects with a variety of languages, tools and technologies, most times learning as I go, and always viewing challenges as opportunities. I recently finished my internship at HealthSaaS where I put my technical skills to the test as I worked on problems in every area of the codebase. From API design and relational databases to all things C# and Javascript, I greeted every challenge with a smile.
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

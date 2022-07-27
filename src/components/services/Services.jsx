@@ -5,89 +5,89 @@ import { BiCheck } from 'react-icons/bi'
 const Services = () => {
   return (
     <section id='services'>
-      <h5>What I Offer</h5>
-      <h2>Services</h2>
+      <h5>Where I've made an impact</h5>
+      <h2>Professional Experience</h2>
       <div className='container services_container'>
         <article className='service'>
           <div className='service_head'>
-            <h3>UI/UX Design</h3>
+            <h3>Epicodus</h3>
           </div>
           <ul className='service_list'>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet, adipisicing elit.</p>
+              <p>Built 50+ full stack projects</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet, adipisicing elit.</p>
+              <p>Variety of languages, tools and technologies</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet, adipisicing elit.</p>
+              <p>RESTful APIs and relational databases</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet, adipisicing elit.</p>
+              <p>800+ hours of full stack web development</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet, adipisicing elit.</p>
+              <p>Remote collaboration</p>
+            </li>
+            <li>
+              <BiCheck className='service_list-icon' />
+              <p>Received certificate in Web and Mobile Development</p>
             </li>
           </ul>
         </article>
 
         <article className='service'>
           <div className='service_head'>
-            <h3>Web Development</h3>
+            <h3>HealthSaaS</h3>
           </div>
           <ul className='service_list'>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet, adipisicing elit.</p>
+              <p>API design and cloud computing</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet, adipisicing elit.</p>
+              <p>Frontend development in React and TypeScript</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet, adipisicing elit.</p>
+              <p>Worked on new products and updated existing software systems</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet, adipisicing elit.</p>
+              <p>Authorization and Authentication through Identity and .NET Core</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet, adipisicing elit.</p>
+              <p>Contributed to team sprint planning and project meetings</p>
             </li>
           </ul>
         </article>
 
         <article className='service'>
           <div className='service_head'>
-            <h3>Content Creation</h3>
+            <h3>Client Work</h3>
           </div>
           <ul className='service_list'>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet, adipisicing elit.</p>
+              <p>Custom web development from design to deployment</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet, adipisicing elit.</p>
+              <p>Designed and delivered applications tailored to clients needs</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet, adipisicing elit.</p>
+              <p>Built dynamic frontend applications for use on all devices</p>
             </li>
             <li>
               <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet, adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet, adipisicing elit.</p>
+              <p>Met timelines with efficient work and good time management</p>
             </li>
           </ul>
         </article>
