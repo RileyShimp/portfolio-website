@@ -67,7 +67,11 @@ header {
     height: 100vh;
   }
 
-  .header_socials,
+  .header_socials{
+    left: 0;
+    top: 0;
+    font-size: .9rem;
+  }
   .scroll_down {
     display: none;
   }
