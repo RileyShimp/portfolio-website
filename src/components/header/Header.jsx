@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 import ResumeButton from './ResumeButton'
-import Me from '../../assets/Me4.PNG'
+import Me from '../../assets/Me3.PNG'
 import HeaderSocials from './HeaderSocials'
 
 const Header = () => {
