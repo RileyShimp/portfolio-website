@@ -15,13 +15,13 @@ const data = [
     avatar: AVTR1,
     name: 'Reality PDX',
     review:
-      'Riley was amazing to work with. We gave a general idea of what we wanted, and he blew us away with what he came up with. extremely satisfied with the end result',
+      '"Riley was amazing to work with. We gave a general idea of what we wanted, and he blew us away with what he came up with. extremely satisfied with the end result"',
   },
   {
     avatar: AVTR1,
     name: 'Worldwide Bulliez llc',
     review:
-      "We weren't sure what we wanted, we just knew we needed a modern website to attract more clients. Riley made the process fun. He showed us plenty of examples and let us choose what functionalities we wanted. He quickly delivered a minimal modern site with everything we wanted and more.",
+      '"We had no idea what we wanted, we just knew we needed a modern website to attract more clients. Riley made the process fun. He showed us plenty of examples and let us choose what functionalities we wanted. He quickly delivered a minimal modern site with everything we wanted and more."',
   }
 ]
 
